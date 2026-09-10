@@ -196,20 +196,6 @@ The notebook uses the same pipeline command:
 
 The current workflow generates a `results.json` file containing the model evaluation results.
 
-\---
-
-### **Notebook**
-
-The repository includes a Jupyter Notebook for running and reviewing the classification workflow:
-
-```text
-notebooks/classify\_lost\_circulation.ipynb
-```
-
-The notebook is intended to provide a reproducible entry point for inspecting model results and the machine-learning workflow.
-
-\---
-
 ## **Key Findin**g
 
 The preliminary results demonstrate an important distinction between **within-dataset predictive performance** and **cross-well generalization**.
