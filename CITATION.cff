@@ -1,25 +1,13 @@
 cff-version: 1.2.0
 message: "If you use this software or framework, please cite it as below."
-title: "Impact of Weather Conditions for Precise Estimation of Energy Production and Consumption Using Machine Learning Models: A Comparative Study of Deep Learning and Ensemble Approaches"
-abstract: >-
-  A reproducible framework for quantifying the contribution of meteorological
-  information to the estimation of energy production and consumption, and for
-  comparing traditional, ensemble and deep-learning approaches under an
-  identical time-aware protocol with weather-feature ablation.
-version: 0.1.0
-date-released: "2026-09-08"
+title: "Lost Circulation Classification Using Machine Learning Algorithms"
+date-released: "2026-09-11"
 license: MIT
 type: software
-repository-code: "https://github.com/<org>/weather-energy-ml-comparative-study"
-author:Salman Shakib Suprova
-affiliation: "Shahjalal University of Science & Technology,Sylhet"
-keywords:
-  - energy forecasting
-  - renewable energy
-  - electricity demand
-  - machine learning
-  - deep learning
-  - ensemble learning
-  - weather
+repository-code: "https://github.com/suprovo11/classification-of-lost-circulation"
+author:
+Salman Shakib Suprova
+Shahjalal University of Science & Technology,Sylhet"
+
 
 # No DOI is claimed. Add one here after archiving a release (e.g. via Zenodo).
